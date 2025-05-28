@@ -6,6 +6,14 @@ A comprehensive Model Context Protocol (MCP) server for the Coolify API. This se
 
 > **Compatibility:** Tested with Coolify version 4.0.0-beta.418
 
+---
+
+**👋 Open for Opportunities!**  
+I'm actively seeking new opportunities and collaborations. If you have interesting projects or job opportunities, feel free to reach out!  
+📧 **Contact:** pashvc@gmail.com
+
+---
+
 ## Prerequisites
 
 - Node.js 18 or higher
