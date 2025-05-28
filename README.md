@@ -65,10 +65,10 @@ A comprehensive Model Context Protocol (MCP) server for the Coolify API. This se
 
 ```bash
 # Install globally
-npm install -g mcp-server-coolify
+npm install -g @pashvc/mcp-server-coolify
 
 # Or use with npx
-npx mcp-server-coolify
+npx @pashvc/mcp-server-coolify
 ```
 
 ## Configuration
@@ -98,7 +98,7 @@ Add the following to your MCP settings configuration:
   "mcpServers": {
     "coolify": {
       "command": "npx",
-      "args": ["-y", "mcp-server-coolify"],
+      "args": ["-y", "@pashvc/mcp-server-coolify"],
       "env": {
         "COOLIFY_BASE_URL": "your-coolify-url",
         "COOLIFY_TOKEN": "your-api-token"
@@ -121,7 +121,7 @@ Windows Cline users may need the following:
         "/c",
         "npx",
         "-y",
-        "mcp-server-coolify"
+        "@pashvc/mcp-server-coolify"
       ],
       "env": {
         "COOLIFY_BASE_URL": "your-coolify-url",

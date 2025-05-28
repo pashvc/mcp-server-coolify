@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-coolify",
+  "name": "@pashvc/mcp-server-coolify",
   "version": "1.0.0",
   "description": "MCP server for Coolify API integration with comprehensive resource management",
   "type": "module",
